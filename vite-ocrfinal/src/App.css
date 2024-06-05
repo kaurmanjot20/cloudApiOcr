@@ -1,0 +1,75 @@
+.ocr-container {
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+/* CSS */
+/* .ocr-input {
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 10px;
+  /* border: 2px solid #ccc; */
+  /* Blue background color */
+  
+.ocr-input {
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #e1f0fe;
+  color: #0c0c0c; /* White text color */
+  cursor: pointer;
+}
+.ocr-input::-webkit-file-upload-button {
+  color: #f3eded; /* White text color */
+  background-color: #007bff;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px; /* Font size */
+  width: 8rem;
+  height: 4rem;
+  cursor: pointer;
+  text-align: center; /* Center-align text */
+}
+/* .ocr-input:focus {
+  outline: none;
+  border-color: #84c3ff;;
+}
+
+.ocr-input:hover {
+  background-color: #84c3ff; Hover background color 
+}*/
+ 
+.ocr-loading {
+  margin-top: 20px;
+  font-style: italic;
+  color: #888;
+}
+
+.ocr-text {
+  margin-top: 20px;
+  background-color: #f8f8f8;
+  padding: 20px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  text-align: left;
+}
+
+.ocr-block {
+  margin-bottom: 10px;
+}
+
+.ocr-block:last-child {
+  margin-bottom: 0;
+}
+
+.ocr-text div {
+  margin-bottom: 5px;
+}
